@@ -31,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3](https://img.shields.io/badge/web3-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white) 
+![Web3](https://img.shields.io/badge/web3-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white)    
     
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amitpatel-wstf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
